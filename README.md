@@ -80,7 +80,6 @@ As final result frequency is displayed also
 
 ## GUI Application
 
-![GUI](img/3.JPG)
 
 To open this project go to app designer and open **GUI/gui.mlapp** 
 
